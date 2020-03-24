@@ -1,0 +1,11 @@
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.exe
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.deps.json
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.runtimeconfig.json
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.runtimeconfig.dev.json
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.dll
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.pdb
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.csprojAssemblyReference.cache
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.AssemblyInfo.cs
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.dll
+C:\temp\C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\netcoreapp3.1\ExercicioMembrosEstaticos.pdb
